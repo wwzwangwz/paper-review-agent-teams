@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Review Agent Teams"
+  short_description: "Multi-agent venue-aware paper reviews"
+  default_prompt: "Review this paper with agent teams. Ask for the target venue first, default CVPR, then score and critique the manuscript."
